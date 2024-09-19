@@ -1,2 +1,4 @@
-Hello Amigos!
+Hola  Amigos!
 Let's begin with the CSI bootcamp.
+
+commit 2 
